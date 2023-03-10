@@ -7,7 +7,7 @@ PWA Studio storefront deployments in the Magento Commerce Cloud use this module 
 
 ## Installation
 
-The Magento 2 UPWARD connector module is part of the [Magento Cloud deployment][] steps in the official PWA Studio docs.
+The Magento 2 UPWARD connector module is installed as part of the [Deploy to Adobe Commerce][] steps documentation.
 
 ## Configuration
 
@@ -134,6 +134,6 @@ This causes the storefront Service Worker to intercept backend requests when you
 If you cannot avoid sharing the hostname, access one service at a time or use a private browsing session per service.
 
 [upward-php]: https://github.com/magento/upward-php
-[magento cloud deployment]: http://pwastudio.io/tutorials/cloud-deploy/
+[deploy to adobe commerce]: https://developer.adobe.com/commerce/pwa-studio/tutorials/production-deployment/adobe-commerce/#add-required-adobe-commerce-extensions
 [prerender.io]: https://docs.prerender.io/
 [system-specific best practices]: https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-var-name.html
